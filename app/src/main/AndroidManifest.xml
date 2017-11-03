@@ -22,8 +22,7 @@
 
         <activity android:name="."></activity>
     </application>
-
-        activity android:name=".MyApp"
+          <activity android:name=".MyApp"
         />
     <uses-permission android:name="android.permission.INTERNET" />
 </manifest>
